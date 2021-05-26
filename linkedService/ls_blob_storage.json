@@ -11,7 +11,7 @@
 					"type": "LinkedServiceReference"
 				},
 				"secretName": "https://keyavaultforsezure.vault.azure.net/keys/secstorageaccount/43384cb1502c40208b076398752ef527",
-				"secretVersion": ""
+				"secretVersion": "sqlsever"
 			}
 		}
 	}
